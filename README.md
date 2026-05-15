@@ -1,9 +1,10 @@
 # estacionMeteorologica
   El objetivo fue diseñar una estación meteorológica que mida variables ambientales, almacene y visualice dichos datos localmente y en la nube. Por último el sistema debe ser “offline resilience”.
 
-Específicamente, el sistema deberá tener las siguientes características: 
-    * Medir temperatura, humedad y presión. 
-    * Visualizar las variables en la web, tanto local como cloud. Si es en un gráfico en función del tiempo, mejor. 
+Específicamente, el sistema deberá tener las siguientes características:
+
+  * Medir temperatura, humedad y presión. 
+  * Visualizar las variables en la web, tanto local como cloud. Si es en un gráfico en función del tiempo, mejor. 
       ○ Localmente: Red LAN. 
       ○ Cloud: Cualquier servicio gratuito disponible para almacenar datos de IoT.
 
